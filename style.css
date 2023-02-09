@@ -1,0 +1,110 @@
+body {
+    font-family: "Montserrat",sans-serif;
+}
+
+.title {
+    color: white;
+    background-color: #ff4c68;
+}
+
+.title-image {
+    width: 60%;
+    transform: rotate(25deg);
+}
+
+h1 {
+    font-family: 'Montserrat 800', sans-serif;
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+h2 {
+    font-family: 'Montserrat';
+    font-weight: 500;
+}
+
+.container-fluid {
+    padding: 3% 15%;
+}
+.fab {
+    padding: 3px;
+}
+
+.navbar {
+    padding-bottom: 4.5rem;
+}
+
+.navitem {
+    padding: 0 10px;
+}
+
+.navlink {
+    font-size: 1.2rem;
+    font-family: 'Montserrat';
+}
+
+.navbar-brand {
+
+    font-family:'Ubuntu';
+    font-size: 2rem;
+    font-weight: 700;
+    
+}
+
+.container {
+    padding-left: 0;
+}
+
+.download-button {
+    margin: 5% 3% 5% 0;
+}
+
+h3 {
+    font-weight: bold;
+}
+
+.fas {
+    scale: 3;
+    margin: 7%;
+    color: #ef8172;
+    
+}
+
+.fas:hover {
+    color: #ff4c68;
+}
+
+.features {
+    padding: 7%;
+}
+
+.press-image {
+    scale: .65;
+}
+
+.pricing-pack {
+    padding: 3%;
+}
+
+.labrador-image {
+    padding: 1%;
+}
+
+#testimonials {
+    padding: 7% 15%;
+    text-align: center;
+    background-color: #ef8172;
+    color: white;
+}
+
+.testimonial-image {
+    width: 15%;
+    border-radius: 100%;
+    margin: 3%;
+}
+
+.labrador-image {
+    width: 15%;
+    border-radius: 100%;
+    margin: 3%;
+}
